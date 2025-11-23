@@ -10,4 +10,4 @@ ll.add_first(30)
 ll.remove_last()
 
 
-print("")
+print("ю")
